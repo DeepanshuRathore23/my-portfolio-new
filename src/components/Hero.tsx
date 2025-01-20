@@ -17,11 +17,10 @@ const Hero = () => {
             Deepanshu Rathore
           </h1>
           <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-8 transition-colors">
-            Frontend Developer & BTech Student
+            D-App FullStack Developer & BTech Student
           </p>
           <p className="text-lg text-gray-600 dark:text-gray-400 max-w-2xl mb-12 transition-colors">
-            Passionate about creating beautiful web experiences. Currently in my 3rd year of BTech,
-            working as a freelance developer specializing in React and modern web technologies.
+            Passionate about building decentralized and user-friendly web experiences. Currently in my 3rd year of BTech, working as a freelance developer specializing in fullstack D-App development, with expertise in React, Solidity, and modern blockchain technologies.
           </p>
           <div className="flex gap-4">
             <a

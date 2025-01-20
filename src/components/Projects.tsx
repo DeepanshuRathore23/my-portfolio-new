@@ -24,9 +24,16 @@ const Projects = () => {
     },
     {
       title: 'University ERP',
-      description: 'An Electronic Startup Website',
+      description: 'University Management Application.',
       link: 'https://university-erp.netlify.app/',
-      // github: 'https://github.com/DeepanshuRathore23/Text-to-Audio_Convertor',
+      github: 'https://github.com/DeepanshuRathore23/College-Erp-System',
+      type: 'Personal Project',
+    },
+    {
+      title: 'Election D-App',
+      description: 'A Decentralized election Application.',
+      link: 'https://decentralized-elections.netlify.app/',
+      github: 'https://github.com/DeepanshuRathore23/Decentralized-Voting-App',
       type: 'Personal Project',
     },
   ];

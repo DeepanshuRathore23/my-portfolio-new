@@ -2,12 +2,13 @@ import React from 'react';
 
 const Skills = () => {
   const skills = [
-    { name: 'ReactJS', level: 'Advanced' },
-    { name: 'Redux', level: 'Advanced' },
     { name: 'JavaScript', level: 'Advanced' },
-    { name: 'TypeScript', level: 'Intermediate' },
+    { name: 'ReactJS', level: 'Advanced' },
     { name: 'NextJS', level: 'Intermediate' },
     { name: 'Git & GitHub', level: 'Advanced' },
+    { name: 'Solidity', level: 'Intermediate' },
+    { name: 'Truffle', level: 'Intermediate' },
+    { name: 'Web3.js', level: 'Intermediate' },
   ];
 
   return (
